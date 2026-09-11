@@ -2,7 +2,7 @@
 
 ### Hello, I'm Olufunmilayo Esther  Olawoyin 👋
 
-I am an aspiring **Data Analyst** passionate about transforming raw, messy data into clear, actionable business insights. I leverage tools like **Python, R, SQL, and Excel** to solve real-world problems and drive data-informed decision-making.
+I am an aspiring **Data Analyst** passionate about transforming raw, messy data into clear, actionable business insights. I use tools like **Python, R, SQL, and Excel** to solve real world problems and drive data-informed decision-making.
 
 ---
 
