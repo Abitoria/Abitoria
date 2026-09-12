@@ -15,6 +15,10 @@ I am an aspiring **Data Analyst** passionate about transforming raw, messy data 
 * **[R Programming Projects](https://github.com/Abitoria/R-programming-projects)**
   * **Tools:** R
   * **Description:** Conducted statistical data analysis on student performance and movie datasets using R scripts to uncover patterns and behavioral trends.
+  * **[SQL AdventureWorks Project](https://github.com/Abitoria/SQL-AdventureWorks)**
+  * **Tools:** SQL
+  * **Description:** Extracted and analyzed business intelligence metrics from relational databases using complex SQL queries, joins, and aggregations.
+
 
 ---
 
