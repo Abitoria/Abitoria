@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hi there 
 
-### Hello, I'm Olufunmilayo Esther  Olawoyin 👋
+### Hello, I'm Olufunmilayo Esther  Olawoyin 
 
 I am an aspiring **Data Analyst** passionate about transforming raw, messy data into clear, actionable business insights. I use tools like **Python, R, SQL, and Excel** to solve real world problems and drive data-informed decision-making.
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 * **[Decodelabs Internship Project](https://github.com/Abitoria/Decodelabs-internship)**
   * **Tools:** Python (Pandas, Matplotlib, Seaborn)
@@ -30,4 +30,4 @@ I am an aspiring **Data Analyst** passionate about transforming raw, messy data 
 * **Visualization:** Matplotlib, Seaborn, Dashboards (Shiny / Power BI )
 * 
 
-📫 **How to reach me:** [Send me an email](mailto:aboyeolawoyin29@gmail.com)
+ **How to reach me:** [Send me an email](mailto:aboyeolawoyin29@gmail.com)
