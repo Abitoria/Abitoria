@@ -21,7 +21,7 @@ I am an aspiring **Data Analyst** passionate about transforming raw, messy data 
 
 * **[Excel Data Analytics Portfolio](https://github.com/Abitoria/Excel-Data-Analytics-Portfolio)**: End to end spreadsheet models featuring an interactive Supermarket Sales Optimisation Dashboard ($1.4M+ tracked revenue) and an automated formula driven Daily Sales & Profit Tracker.
 
-* **[Power BI Health Analytics Dashboard](https://github.com/Abitoria/PowerBI-Health-Analytics-Dashboard)**: End to end healthcare analytics dashboard tracking multi disease outbreaks (Malaria, COVID-19, Cholera, Tuberculosis, Typhoid) across 500+ records, featuring interactive recovery rates, demographic breakdowns, and executive KPI cards.
+* **[Powerbi Project](https://github.com/Abitoria/Powerbi-project)**: End to end healthcare analytics dashboard tracking multi disease outbreaks (Malaria, COVID-19, Cholera, Tuberculosis, Typhoid) across 500+ records, featuring interactive recovery rates, demographic breakdowns, and executive KPI cards.
 ---
 
 ### 🛠️ Technical Toolkit
