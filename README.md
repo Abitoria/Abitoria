@@ -19,12 +19,13 @@ I am an aspiring **Data Analyst** passionate about transforming raw, messy data 
   * **Tools:** SQL
   * **Description:** Extracted and analyzed business intelligence metrics from relational databases using complex SQL queries, joins, and aggregations.
 
-
+* **[Excel Data Analytics Portfolio](https://github.com/Abitoria/Excel-Data-Analytics-Portfolio)**: End to end spreadsheet models featuring an interactive Supermarket Sales Optimisation Dashboard ($1.4M+ tracked revenue) and an automated formula driven Daily Sales & Profit Tracker.
 ---
 
 ### 🛠️ Technical Toolkit
-* **Languages & Querying:** Python, R, SQL
+* **Languages & Querying:** Python, R, SQL,Microsoft excel,PowerBi
 * **Data Manipulation & Analysis:** Pandas, NumPy, Data Cleaning, EDA
-* **Visualization:** Matplotlib, Seaborn, Dashboards (Shiny / Power BI / Tableau)
+* **Visualization:** Matplotlib, Seaborn, Dashboards (Shiny / Power BI )
+* 
 
 📫 **How to reach me:** [Send me an email](mailto:aboyeolawoyin29@gmail.com)
