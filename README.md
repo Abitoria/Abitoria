@@ -8,7 +8,7 @@ I am an aspiring **Data Analyst** passionate about transforming raw, messy data 
 
 ###  Featured Projects
 
-* **[Decodelabs Internship Project](https://github.com/Abitoria/Decodelabs-internship)**
+* **[Sales_Trend_and_Correlation_Analysis](https://github.com/Abitoria/Sales_Trend_and_Correlation_Analysis)**
   * **Tools:** Python (Pandas, Matplotlib, Seaborn)
   * **Description:** Performed end-to-end data cleaning, exploratory data analysis (EDA), and generated visual insights including monthly sales trends and correlation heatmaps to evaluate performance metrics.
 
